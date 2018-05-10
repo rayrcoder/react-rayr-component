@@ -1,6 +1,6 @@
 {
   "name": "react-rayr-component",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "react-rayr-component",
   "main": "lib/index.js",
   "scripts": {
@@ -23,6 +23,7 @@
     "react-rayr-imgview": "0.0.14",
     "react-rayr-modal": "^0.0.12",
     "react-rayr-pagination": "^0.0.5",
+    "react-rayr-toggle": "^0.0.3",
     "react-transition-group": "^2.2.1"
   },
   "devDependencies": {
