@@ -23,6 +23,7 @@
     "react-rayr-imgview": "0.0.14",
     "react-rayr-modal": "^0.0.12",
     "react-rayr-pagination": "^0.0.6",
+    "react-rayr-tab": "^0.0.2",
     "react-rayr-toggle": "^0.0.3",
     "react-transition-group": "^2.2.1"
   },
