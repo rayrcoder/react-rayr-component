@@ -1,6 +1,6 @@
 {
   "name": "react-rayr-component",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "description": "react-rayr-component",
   "main": "lib/index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "classnames": "^2.2.5",
     "prop-types": "^15.6.0",
     "react-rayr-btn": "^0.0.9",
-    "react-rayr-dropdown": "^0.1.2",
+    "react-rayr-dropdown": "^0.1.3",
     "react-rayr-icon": "^0.0.7",
     "react-rayr-imgview": "0.0.14",
     "react-rayr-modal": "^0.0.12",
