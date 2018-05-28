@@ -28,6 +28,7 @@ Rayr* represent one of rayr component.See below Component list.
 - Pagination组件: [react-rayr-pagination](https://github.com/rayrcoder/react-rayr-pagination)
 - Tab组件: [react-rayr-tab](https://github.com/rayrcoder/react-rayr-tab)
 - Toggle组件: [react-rayr-toggle](https://github.com/rayrcoder/react-rayr-toggle)
+- Tooltip组件: [react-rayr-tooltip](https://github.com/rayrcoder/react-rayr-tooltip)
 
 ## Wiki
 
