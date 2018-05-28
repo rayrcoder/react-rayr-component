@@ -7,6 +7,7 @@ import {RayrPagination} from 'react-rayr-pagination';
 import {RayrSelector} from 'react-rayr-dropdown';
 import {RayrMulSelector} from 'react-rayr-dropdown';
 import {RayrTab, RayrTabPane} from 'react-rayr-tab';
+import {RayrTooltip} from 'react-rayr-tooltip';
 
 
 import RayrComponent from './RayrComponent.js';
@@ -23,5 +24,6 @@ export {
     RayrMulSelector,
     RayrToggle,
     RayrTab,
-    RayrTabPane
+    RayrTabPane,
+    RayrTooltip
 };
